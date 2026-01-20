@@ -1,0 +1,2 @@
+com.google.protobuf:protobuf-java:3.25.1=compileOnlyDependenciesMetadata
+com.google.protobuf:protobuf-java:3.25.8=compileClasspath,implementationDependenciesMetadata,runtimeClasspath,testCompileClasspath,testImplementationDependenciesMetadata,testRuntimeClasspath
